@@ -24,13 +24,13 @@ p {
 
 button {
     margin-top: 4vh;
-    height: 6vh;
-    width: 30vw;
+    height: 5vh;
+    width: 25vw;
     background-color: #6b4332b6;
     color: #CAD3D4;
     text-transform: uppercase;
     font-family: 'Oswald';
-    font-size: 1.7vh;
+    font-size: 3vw;
     border: 1px solid #cad3d47e;
 }
 
