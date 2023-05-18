@@ -1,3 +1,9 @@
+:root {
+    --coffee-color: #6b4332b6;
+    --light-color: rgba(240, 255, 255, 0.708);
+    --coffee-super-color: #6b4332;
+}
+
 * {
     margin: 0;
 }
