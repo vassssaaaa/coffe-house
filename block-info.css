@@ -4,7 +4,7 @@
     padding-top: 20px;
 }
 
-h2 {
+.block-info h2 {
     color: var(--coffee-super-color);
     font-family: 'Oswald';
     font-size: 36px;
@@ -58,14 +58,14 @@ li {
     left: 0;
 }
 
-h3, h4 {
+.block-info h3, h4 {
     color: var(--coffee-super-color);
     font-size: 18px;
     font-weight: lighter;
     padding-bottom: 1vh;
 }
 
-h4 {
+.block-info h4 {
     padding: 2vh;
     text-align: justify;
 }
@@ -89,7 +89,7 @@ h4 {
         width: 22vw;
     }
 
-    h3, h4 {
+    .block-info h3, h4 {
         font-size: 24px;
         text-align: center;
     }

@@ -1,0 +1,17 @@
+.menu-div {
+    height: 60px;
+    background-color: var(--temno-color);
+    color: var(--light-color);
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid var(--light-color);
+    border-bottom: 1px solid var(--light-color);
+    z-index: 999;
+}
+
+.menu-div p {
+    font-size: 18px;
+}
