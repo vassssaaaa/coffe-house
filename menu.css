@@ -9,7 +9,7 @@
     align-items: center;
     border-top: 1px solid var(--light-color);
     border-bottom: 1px solid var(--light-color);
-    z-index: 999;
+    z-index: 1;
 }
 
 .menu-div p {

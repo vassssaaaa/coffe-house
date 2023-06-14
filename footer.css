@@ -28,8 +28,6 @@
     color: var(--light-color);
     font-size: 18px;
     padding-top: 1vh;
-    border-top: 1px solid var(--light-color);
-    border-bottom: 1px solid var(--light-color);
     border: none;
 }
 
